@@ -7,6 +7,8 @@
 
 *To fork this report, please visit [github.com/omniharmonic/ethereumsfuture](https://github.com/omniharmonic/ethereumsfuture).*
 
+* To view the blog post where this report was initially published, please visit [mirror.xyz/omniharmonic.eth/ethereum'sfuture](https://mirror.xyz/omniharmonic.eth/AOZcToqtmJzDa2qQUds_caHy9aH2XfEe36Tf4yIWu30).*
+
 ---
 # **1. Executive Summary**
 
